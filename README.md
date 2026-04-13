@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.tekkiwebsolutions.com/wp-content/uploads/Bhavya-AI.png" alt="Bhavya Banner" />
+  <img src="https://www.tekkiwebsolutions.com/wp-content/uploads/Bhavya-AI-e1776079451584.png" alt="Bhavya Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Bhavya</h1>
