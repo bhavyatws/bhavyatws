@@ -76,14 +76,12 @@
 
 ## 🔑 Why Work With Me?
 
-💬 **Quick & Reliable Communication**  
-Clear, fast, and transparent communication throughout the project.
+- **Quick & Reliable Communication**   Clear, fast, and transparent communication throughout the project.
 
-💰 **Quality-Driven Solutions**  
-Delivering high-quality, scalable solutions that align with your budget.
+- **Quality-Driven Solutions**   Delivering high-quality, scalable solutions that align with your budget.
 
-🎯 **Long-Term Partnership Mindset**  
-Focused on building lasting relationships and delivering continuous value.
+- **Long-Term Partnership Mindset**  Focused on building lasting relationships and delivering continuous value.
+  
 
 ⚡ I specialize in building systems that are **fast, scalable, and secure** — designed to grow with your business.
 
