@@ -1,10 +1,10 @@
 ## Hello👋 I'm Bhavya. Thank you for visiting my profile 👩🏾‍💻 
-<h3 align="center">🚀 AI Python Developer | LLM Engineer | Automation Specialist</h3>
 
 <p align="center">
   <img src="https://www.tekkiwebsolutions.com/wp-content/uploads/Bhavya-AI-e1776079451584.png" alt="Bhavya Banner" />
 </p>
 
+<h3 align="center">🚀 AI Python Developer | LLM Engineer | Automation Specialist</h3>
 
 ---
 
