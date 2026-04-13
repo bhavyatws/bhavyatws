@@ -1,3 +1,5 @@
+## Hello👋. Thank you for visiting my profile 👩🏾‍💻 
+
 <p align="center">
   <img src="https://www.tekkiwebsolutions.com/wp-content/uploads/Bhavya-AI-e1776079451584.png" alt="Bhavya Banner" />
 </p>
