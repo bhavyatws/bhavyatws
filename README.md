@@ -85,8 +85,6 @@ Delivering high-quality, scalable solutions that align with your budget.
 🎯 **Long-Term Partnership Mindset**  
 Focused on building lasting relationships and delivering continuous value.
 
----
-
 ⚡ I specialize in building systems that are **fast, scalable, and secure** — designed to grow with your business.
 
 🚀 Let’s build something amazing together!
